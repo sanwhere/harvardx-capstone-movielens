@@ -8,10 +8,10 @@ output:
     toc_depth: '3'
     number_sections: yes
     fig_caption: yes
-  html_document:
+  html_document:  
     toc: yes
     toc_depth: '3'
-    number_sections: yes
+    number_sections: yes 
 ---
 
 # Introduction
