@@ -594,6 +594,6 @@ It could be beneficial to consider a time effect on the ratings for the last mod
 
 # Conclusion 
 
-The target of **the Data Science: Capstone - MovieLens project** was to find an algorithm gives you lower than **0.87750** RMSE, which was achieved by our last model above and the result is **0.8651977670**. 
+The target of **the Data Science: Capstone - MovieLens project** was to find an algorithm gives you lower than **0.87750** RMSE, which was achieved by our last model above and the result is **0.8648177556**. 
 
 This shows us, the Linear Regression model with regularized effects on users and movie is give you an opportunity to make a good recommender systems to predict ratings.
